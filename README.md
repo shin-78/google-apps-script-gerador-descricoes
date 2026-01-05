@@ -20,6 +20,6 @@ Desenvolvi uma automação em Google Apps Script para gerar descrições automá
 Esse projeto foi criado para resolver um problema real do dia a dia e também como prática de back-end, APIs e automação.
 
 🔗 Código no GitHub:
-https://github.com/seuusuario/nome-do-repositorio
+https://github.com/shin-78/google-apps-script-gerador-descricoes
 
 Aberto a oportunidades como Desenvolvedor Fullstack Júnior 🚀
